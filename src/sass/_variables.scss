@@ -1,0 +1,9 @@
+$default-font-family: 'Roboto', sans-serif;
+$default-viewer-font-family: 'Open Sans', sans-serif;
+
+$susy: (
+  columns: 8,
+  gutters: .05,
+  container: 360px,
+  global-box-sizing: border-box
+);

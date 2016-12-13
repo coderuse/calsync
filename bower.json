@@ -1,0 +1,30 @@
+{
+  "name": "calsync",
+  "description": "Sync Google calendars",
+  "main": "index.html",
+  "authors": [
+    "Arnab Das <arnab@coderuse.com>"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "sync",
+    "calendar",
+    "google-calendar"
+  ],
+  "homepage": "https://coderuse.github.io/calsync",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./build/vendor",
+    "test",
+    "tests",
+    "./build"
+  ],
+  "dependencies": {
+    "react": "15.2.1",
+    "jquery": "3.1.0",
+    "bootstrap": ">3.0.0"
+  }
+}
